@@ -70,7 +70,7 @@ Intent-based chatbot trained on Hugging Face customer support datasets.
 
 ## 📫 Let's Connect
 
-I’m open to internships, freelance projects, and full-time opportunities in Frontend or MERN Stack Development.
+I’m open to internships and full-time opportunities in Frontend Development.
 
 📧 Email: mgurukalyan64@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/m-guru-kalyan-reddy-36a9442b0  
